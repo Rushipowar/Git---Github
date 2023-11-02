@@ -1,0 +1,41 @@
+Step-By-Step Process:
+
+  1. Create a GitHub Account:
+    Frist create account, sign up for a GitHub account at https://github.com. You'll need this account to 
+    contribute to any project.
+    
+  2. Choose Open-Source Project:-
+    Find an open-source project you want to contribute to. related to your interests or explore popular repositories.
+
+  3. Fork the Repository:-
+    On the project's GitHub page, click the "Fork" button. This creates a copy of the project in your GitHub account, 
+    allowing you to work on it.
+
+  4.Clone the Forked Repository:-
+    After forking, you need to clone the forked repository to your local machine using Git.
+    command -> git clone https://github.com/<your_username>/<repository_name>.git
+
+  5. Create a New Branch:-
+    To work on a specific feature or bug fix, create a new branch in your local repository.
+    command -> git checkout -b <branch-name>
+
+  6. Make Changes:-
+    Make the necessary code changes in your branch. follow project's contribution guidelines, coding 
+    style, and any other instructions provided in the project's README file.
+
+  7. Commit Changes:-
+    After making changes, commit them to your branch with clear commit messages.
+    command -> git add <file_name>
+               git commit -m "Your commit message"
+
+  8. Push to Your Fork:-
+    Push your changes to your forked repository on GitHub.
+    command -> git push -u origin <branch-name>
+
+  9. Create a Pull Request:-
+    On the project's GitHub page, navigate to the Pull Requests tab and click New Pull Request. Select your fork's 
+    branch as the base and the project's original branch as the compare branch. Write a descriptive title and comment 
+    explaining your changes.
+
+  10. Merging Your Pull Request:-
+    Once your Pull Request is approved, a project maintainer will merge it into the main project. 

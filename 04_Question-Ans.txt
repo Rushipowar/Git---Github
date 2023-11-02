@@ -1,0 +1,28 @@
+GitHub is a web-based platform for version control and collaborative software development. It allows individuals and 
+teams to work on software projects, track changes, and coordinate their efforts. 
+
+1. Version Control:-
+ GitHub uses Git, a distributed version control system, to track changes in code over time. This allows developers 
+ to work on different aspects of a project concurrently, make changes, and merge them together while preserving a 
+ complete history of revisions.
+
+2. Code Hosting:-
+ GitHub serves as a hosting platform for software repositories. It enables developers to store, share, and distribute 
+ their code with others. This makes it a central hub for open-source and private projects.
+
+3. Collaboration:-
+ GitHub provides tools for collaboration such as pull requests, issues, and project boards. Developers can propose 
+ changes, discuss them, and review each other's code. This fosters collaboration among team members, making it easier 
+ to work on software projects collectively.
+
+4. Documentation:-
+ GitHub supports documentation making it easier to create and maintain project documentation, contributing 
+ guidelines, and more.
+
+Alternatives Of Github:-
+
+1. GitLab
+2. Bitbucket
+3. SourceForge
+4. Azure DevOps
+etc..

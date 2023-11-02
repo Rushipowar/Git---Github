@@ -1,0 +1,21 @@
+Version control, also known as source control it is a system that manages changes to code, or any set of files 
+over time. It helps track and organize files and providing a historical record of what changes were made, who made 
+them, when they were made, and why they were made.
+
+Reasons:
+    1. Collaboration:-  
+    Version control systems allow developers to collaborate effectively by providing 
+    a way to merge their changes, resolve conflicts, and ensure that the final codebase remains stable and functional.
+
+    2. History and Accountability:- 
+    Version control systems maintain a complete history of changes made to the code. 
+    This historical record helps developers understand how the code has evolved over time and allows 
+    them to when and why specific changes were made.
+
+    3. Documentation:- 
+    Version control systems can include commit messages and comments, which serve as a 
+    form of documentation for the changes made to the code. 
+    
+    4. Branching and Forking:-
+     Developers can create branches to work on new features, experiments, or 
+    bug fixes independently. forking a repository is a common way to start a new project based on an existing one.

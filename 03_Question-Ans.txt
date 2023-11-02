@@ -1,0 +1,21 @@
+These files and directories are typically referred to as untracked because Git will ignore them when you commit 
+changes to the repository. The primary purpose of .gitignore is filter out files that are not relevant to the 
+version control history and to avoid these files and sensitive data (exapmle -> API_KEY)
+
+1. Preserve Sensitive Data:-
+ Sometimes credentials, API keys, or other sensitive information are part of your project. These should 
+ never be committed to a public version control repository because security risks. .gitignore allows 
+ you to specify such files and directories are not shared with others.
+
+2. Reduce Repository Size:-
+ Excluding unnecessary files with .gitignore can significantly reduce the size of your 
+ Git repository. Smaller repositories are faster to clone, commit, and push, which can improve the overall efficiency 
+ of version control operations.
+
+3. Improve Collaboration:-
+ .gitignore helps maintain consistency across different team members development environments by excluding 
+ platform-specific or user-specific files. This reduces conflicts and issues when sharing code.
+
+4. Enhance Repository:-
+ A clean and organized version control repository is easier to work with and understand. By filtering out 
+ unneeded files, you can improve the clarity and readability of your project.
